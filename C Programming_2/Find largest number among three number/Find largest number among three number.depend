@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645757922 source:c:\users\faizan\desktop\find largest number among three number\main.c
+	<stdio.h>
+	<stdlib.h>
+

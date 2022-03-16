@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645737956 source:c:\users\faizan\desktop\concert lower case to upper case\main.c
+	<stdio.h>
+	<stdlib.h>
+
